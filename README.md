@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+###PORTFOLIO 
+https://felipenoel.tech
+
+###MAIL
+sol.Felipenoel@Felipenoel.tech
+
+###SOCIAL
+
 <!--
 **Felos9001/Felos9001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
