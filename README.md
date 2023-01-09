@@ -1,5 +1,6 @@
-### Hi, My name is Felipe!
-
+--------------------------
+### ✨Hi, My name is Felipe!✨
+--------------------------
 ### PORTFOLIO🔭
 https://felipenoel.tech
 
@@ -7,7 +8,8 @@ https://felipenoel.tech
 sol.Felipenoel@Felipenoel.tech
 
 ### SOCIAL💬
-
+[Linkedin](https://www.linkedin.com/in/felipe-solorzano-61b639247/)
+ 
 <!--
 **Felos9001/Felos9001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
