@@ -2,7 +2,7 @@
 ### ✨Hi, My name is Felipe!✨
 --------------------------
 ### PORTFOLIO🔭
-https://felipenoel.tech
+https://felipenoel.me
 
 ### MAIL📫
 sol.Felipenoel@Felipenoel.tech
