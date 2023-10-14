@@ -18,6 +18,8 @@ sol.Felipenoel@Felipenoel.tech
 ### SOCIAL💬
 [Linkedin](https://www.linkedin.com/in/felipe-solorzano-61b639247/)
 
+[Lnk.bio](https://lnk.bio/Felos)
+
 
 
 
