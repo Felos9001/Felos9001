@@ -7,9 +7,6 @@
 ### PORTFOLIO🔭
 https://felipenoel.me
 
-### MAIL📫
-sol.Felipenoel@Felipenoel.tech
-
 ### SOCIAL💬
 [Linkedin](https://www.linkedin.com/in/felipe-solorzano-61b639247/)
 
